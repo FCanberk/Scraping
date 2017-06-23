@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "colors": "^1.1.2",
+    "command-line-args": "^4.0.6",
     "selenium-webdriver": "^3.4.0"
   }
 }
